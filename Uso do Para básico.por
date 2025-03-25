@@ -1,12 +1,28 @@
 programa
 {
-	inteiro i
+	
+inteiro i
 	funcao inicio()
 	{
-		para(i = 0 ; i<=100; i++)
+		
+para(i = 0 ; i<=100; i++)
 		escreva(i + "\n")
-	} 
+	}
+ 
 }
+
+programa
+{
+	
+	funcao inicio()
+	{
+	para(inteiro i = 1; i <= 100; i +=2)
+			
+			escreva(i + "\n")
+		
+	}
+}
+
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
